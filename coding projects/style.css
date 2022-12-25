@@ -1,0 +1,13 @@
+body {
+    background-image:url('laptop.jpeg');
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.button {
+    background-color: blue;
+}
